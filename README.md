@@ -8,7 +8,7 @@ This project showcases a modern, eco-friendly packaging company with a clean, su
 ✅ Smooth navigation – User-friendly menu with clear CTAs
 ✅ Engaging visuals – High-quality images & dynamic design elements
 
-# 🛠️ Tech Stack (if applicable)
+# 🛠️ Tech Stack
 - HTML
 - CSS 
 - JavaScript
